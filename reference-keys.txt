@@ -1,3 +1,4 @@
+fig:unnamed-chunk-1
 fig:nice-fig
 tab:nice-tab
 eq:binom
