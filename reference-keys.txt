@@ -1,9 +1,11 @@
 fig:unnamed-chunk-1
+fig:unnamed-chunk-2
 fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
 bienvenido
+que-es-salesforce
 usage
 render-book
 preview-book
