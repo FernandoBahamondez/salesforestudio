@@ -15,7 +15,7 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Bienvenido
+# Bienvenid@!
 
 Esta es una iniciativa en donde es una investigación y análisis de como funciona la plataforma **Salesforce**.
 Esta versión se ha comenzado el 17-04-2026. 
@@ -31,6 +31,7 @@ Es una solución Saas (Software as a Service) para que instituciones o empresas,
 
 
 
+
 ![Arquitectura Salesforce](images/dar_version_arq.png)
 
 
@@ -40,7 +41,11 @@ knitr::include_graphics("images/dar_version_arq.png")
 
 
 
-## Usage 
+## Setup
+
+R
+Github
+Salesforce
 
 Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
 
