@@ -1,0 +1,13 @@
+# Lenguaje R
+
+El marco de trabajo de esta inicia esta hecha con el Lenguaje R, en donde ha sido la herramienta que he usado de manera transversal en mis trabajos.
+
+## ¿ Porque R ?
+
+Porque está alineado con los contextos Cloud, tiene paquetes para una infinidad de cosas y es ideal para realizar análisis y visualizaciones.
+
+## Salesforce + R + "Cloud"
+
+El principio base es que para dominar algún área hay que ampliar el vocabulario y el objetivo es ir generando conocimiento. Este conocimiento visto como un lenguaje que se utiliza en este contexto técnico para poder desembolverse de mejor manera.
+
+
