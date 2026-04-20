@@ -9,7 +9,8 @@ salesforce
 r
 salesforce.org
 integración
-user-token
+autenticación
+capas-metadata
 admin-certification
 blocks
 equations
