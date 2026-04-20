@@ -1,6 +1,4 @@
-fig:unnamed-chunk-1
-fig:nice-fig
-tab:nice-tab
+fig:unnamed-chunk-2
 eq:binom
 thm:tri
 lenguaje-r
@@ -9,12 +7,10 @@ salesforce-r-cloud
 setup
 salesforce
 r
-salesforce-1
-integrarse
-captioned-figures-and-tables
 salesforce.org
 integración
-op-1
+user-token
+admin-certification
 blocks
 equations
 theorems-and-proofs
