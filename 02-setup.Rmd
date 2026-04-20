@@ -25,7 +25,11 @@ Instalación de packages:
 ```{r library, eval=FALSE}
 ## primero se ejecuta esta instalación del package:
 # install.packages("salesforcer")
+#install.packages("tidyverse")
 
 ## luego para tener el package activo, ejecutamos el siguiente código.
 library(salesforcer)
+library(tidyverse)
+library(knitr)
+library(DT)
 ```

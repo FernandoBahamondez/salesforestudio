@@ -44,3 +44,5 @@ admin-certification
 eq:binom
 thm:tri
 user-token
+autenticación
+capas-metadata
