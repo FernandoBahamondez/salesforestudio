@@ -46,3 +46,5 @@ thm:tri
 user-token
 autenticación
 capas-metadata
+describemetadataobject
+describemetadataresult
