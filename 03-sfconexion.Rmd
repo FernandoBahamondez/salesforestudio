@@ -139,9 +139,54 @@ que significa que un xmlName tenga childXmlNames?
 
 
 
-## Codigo Fuente
+## ApexClass
 
-### lwc
+Las clases Apex, contienen el motor y lógicas de Salesforce.
+
+```{r descargar_ApexClass, eval=FALSE}
+### ApexClass
+## --- Armamos queries para hacer el llamado
+metada_query_ApexClass <- list(
+    list(type = 'ApexClass')
+)
+
+## --- Realizamos llamado para extraer la metadata
+metada_list_ApexClass <- sf_list_metadata(
+    queries = metada_query_ApexClass
+)
+```
+
+```{r guardar_ApexClass, eval=FALSE}
+# 2. Guardamos el data frame en la carpeta data
+saveRDS(metada_list_ApexClass, "data/sf_metadata_ApexClass.rds")
+```
+
+
+```{r mostrar_ApexClass}
+library(DT)
+
+# Leemos el archivo previamente guardado de forma local
+df_ApexClass <- readRDS("data/sf_metadata_ApexClass.rds")
+
+# Mostramos la tabla interactiva
+datatable(df_ApexClass, 
+          rownames = FALSE, 
+          filter = 'top', 
+          options = list(
+            pageLength = 10, 
+            autoWidth = TRUE,
+            scrollX = TRUE
+          ),
+          caption = "Listado de ApexClass")
+
+```
+
+Mostrar el visor de código para ver las clases aquí mismo:
+
+
+
+
+## lwc
 
 1. Primero cargue los Recipe de LWC de salesforce a la playground.
 
