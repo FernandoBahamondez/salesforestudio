@@ -16,7 +16,7 @@ installr::updateR()
 ```
 
 
-```{r bash, eval=FALSE}
+```{r , eval=FALSE}
 renv::update()
 renv::rebuild()
 ```
