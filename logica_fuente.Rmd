@@ -1,0 +1,26 @@
+---
+title: "logica_fuente"
+output: html_document
+---
+
+
+# Salesforce
+
+## R
+
+
+### library(salesforcer)
+
+```{r}
+
+```
+
+
+## Git
+
+```{r git}
+git add .
+git commit -m "test desde r"
+git push origin main
+```
+

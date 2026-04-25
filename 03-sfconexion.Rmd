@@ -183,9 +183,6 @@ datatable(df_ApexClass,
 
 Mostrar el visor de código para ver las clases aquí mismo:
 
-
-
-
 ## lwc
 
 1. Primero cargue los Recipe de LWC de salesforce a la playground.
@@ -207,7 +204,6 @@ metada_list_LightningComponentBundle <- sf_list_metadata(
 # 2. Guardamos el data frame en la carpeta data
 saveRDS(metada_list_LightningComponentBundle, "data/sf_metadata_lwc.rds")
 ```
-
 
 
 ```{r mostrar_lwc}
