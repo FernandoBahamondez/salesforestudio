@@ -1,17 +1,5 @@
 # Admin Certification
 
-Practica:
+El año 2026 Salesforce, actualizó la distribución de la distribución de las preguntas, y ahora agrego un % de Agentforce = 8%.
 
-```{r}
-library(webexercises)
-```
-
-
-Evaluación de Conocimientos
-1. Pregunta de alternativa única (Solo 1 correcta)
-¿Cuál es la función principal en R para ver la estructura de un objeto?
-
-```{r}
-mcq(c("summary()", "plot()", answer = "str()", "head()"))
-```
-
+![](images/clipboard-1332188265.png){width="315"}

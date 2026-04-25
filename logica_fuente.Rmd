@@ -8,6 +8,18 @@ output: html_document
 
 ## R
 
+Asegurarme que descargo la última versión de R y luego subirla a github:
+
+```{r installr, eval=FALSE}
+install.packages("installr")
+installr::updateR()
+```
+
+
+```{r bash, eval=FALSE}
+renv::update()
+renv::rebuild()
+```
 
 
 
