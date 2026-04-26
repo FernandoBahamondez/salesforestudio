@@ -11,6 +11,7 @@ autenticación
 capas-metadata
 apexclass
 lwc
+aura
 admin-certification
 retrieve
 lwc-1
